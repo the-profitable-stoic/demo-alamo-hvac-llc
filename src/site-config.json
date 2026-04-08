@@ -1,0 +1,572 @@
+{
+  "business": {
+    "name": "ALAMO HVAC, LLC",
+    "phone": "+19154070189",
+    "category": "HVAC contractor",
+    "city": "El Paso",
+    "state": "TX"
+  },
+  "design": {
+    "preset": {
+      "id": "roofing-trust-navy",
+      "categoryGroup": "roofing",
+      "name": "Trust Navy",
+      "recipeFile": "roofing/trust-navy.astro",
+      "colors": {
+        "primary": "#2C4563",
+        "primaryDark": "#1B2F45",
+        "primaryLight": "#D4E0ED",
+        "secondary": "#3D5A80",
+        "accent": "#3D6B5A",
+        "background": "#FFFFFF",
+        "backgroundAlt": "#2C4563",
+        "surface": "#F4F6F8",
+        "text": "#1A1A2E",
+        "textLight": "#4A5568",
+        "textOnDark": "#FFFFFF",
+        "border": "#E5E7EB"
+      },
+      "typography": {
+        "headingFont": "Playfair Display",
+        "headingWeight": "700",
+        "bodyFont": "Source Sans 3",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.25"
+      },
+      "shape": {
+        "borderRadius": "6px",
+        "buttonRadius": "6px",
+        "cardRadius": "10px",
+        "shadowStyle": "soft"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "light",
+          "surface",
+          "light",
+          "dark",
+          "light"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "balanced"
+      }
+    },
+    "recipeId": "roofing/trust-navy"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "El Paso's HVAC Experts",
+      "heroSubline": "Reliable heating and cooling services for homes and businesses. Alamo HVAC: Keeping El Paso comfortable, year-round.",
+      "aboutTitle": "Your Trusted HVAC Partner in El Paso",
+      "aboutText": [
+        "Alamo HVAC, LLC was founded over a decade ago with a simple mission: to provide honest, dependable HVAC services to the El Paso community. We're a locally owned and operated company, built on integrity and a commitment to quality workmanship.",
+        "We believe in clear communication, upfront pricing, and treating every customer like a neighbor. Our team is dedicated to finding the most efficient and cost-effective solutions for your heating and cooling needs, whether it's a simple repair or a complete system replacement.",
+        "El Paso is our home, and we're proud to support local organizations and initiatives. We're committed to providing reliable service and building lasting relationships with our customers throughout the region."
+      ],
+      "valueProps": [
+        {
+          "title": "Experienced Technicians",
+          "description": "Our team consists of highly trained and certified HVAC professionals with years of experience in the El Paso climate."
+        },
+        {
+          "title": "Upfront Pricing",
+          "description": "We provide clear, detailed estimates before any work begins, so you know exactly what to expect."
+        },
+        {
+          "title": "Reliable Service",
+          "description": "We're committed to arriving on time, completing work efficiently, and exceeding your expectations."
+        },
+        {
+          "title": "24/7 Emergency Service",
+          "description": "HVAC emergencies don't wait, and neither do we. We're available around the clock to handle urgent repairs."
+        }
+      ],
+      "ctaHeadline": "Need HVAC Service?",
+      "ctaSubline": "Call Alamo HVAC today for a free estimate and experience the difference!"
+    },
+    "services": [
+      {
+        "slug": "ac-repair",
+        "name": "AC Repair",
+        "shortDescription": "Fast, reliable AC repair services to beat the El Paso heat.",
+        "description": "When your AC breaks down in the middle of a scorching El Paso summer, you need a repair service you can count on. Alamo HVAC offers prompt and professional AC repair to get your system back up and running quickly. Our experienced technicians are equipped to diagnose and repair all types of AC units, from central air systems to ductless mini-splits. \n\nWe understand the importance of a functioning AC in our desert climate. That's why we prioritize emergency repairs and offer 24/7 availability. We'll thoroughly inspect your system, identify the root cause of the problem, and provide a clear explanation of the necessary repairs. We use only high-quality parts and materials to ensure lasting performance. \n\nWhether it's a refrigerant leak, a faulty compressor, or a malfunctioning thermostat, Alamo HVAC has the expertise to handle any AC repair job. We're committed to providing honest and reliable service at a fair price. Don't suffer through another sweltering day – call us for fast AC repair!",
+        "process": [
+          "Step 1: Diagnostic Testing - We thoroughly inspect your AC system to pinpoint the problem.",
+          "Step 2: Transparent Explanation - We explain the issue and provide an upfront estimate for repairs.",
+          "Step 3: Expert Repair - Our certified technicians perform the necessary repairs using quality parts.",
+          "Step 4: System Testing - We ensure your AC is functioning properly and efficiently before we leave."
+        ],
+        "benefits": [
+          "Fast and reliable service",
+          "Experienced and certified technicians",
+          "Upfront pricing",
+          "24/7 emergency service"
+        ],
+        "faq": [
+          {
+            "question": "How quickly can you respond to an AC repair request?",
+            "answer": "We offer 24/7 emergency service and strive to respond to all repair requests as quickly as possible, especially during peak season. Our goal is to get your AC back up and running the same day."
+          },
+          {
+            "question": "Do you offer a warranty on your AC repairs?",
+            "answer": "Yes, we stand behind our work and offer a warranty on all parts and labor. The specific warranty details will be provided with your estimate."
+          },
+          {
+            "question": "What are some signs that my AC needs repair?",
+            "answer": "Common signs include weak airflow, strange noises, unusual smells, inconsistent cooling, and a sudden increase in your energy bills."
+          }
+        ]
+      },
+      {
+        "slug": "ac-installation",
+        "name": "AC Installation",
+        "shortDescription": "Professional AC installation for efficient cooling in your El Paso home.",
+        "description": "Installing a new AC system is a significant investment, and it's crucial to choose the right equipment and a qualified installer. Alamo HVAC provides expert AC installation services tailored to the unique needs of El Paso homes. We'll help you select the perfect system for your home's size, layout, and energy efficiency goals. \n\nWe work with all major brands and models, and our technicians are trained to install systems correctly and efficiently. We'll handle everything from removing your old unit to connecting the new system and ensuring proper operation. We also offer ductwork inspection and repair services to maximize the performance of your new AC. \n\nWhether you're upgrading to a more energy-efficient model or installing AC in a new construction home, Alamo HVAC is your trusted partner. We're committed to providing exceptional service and ensuring your complete satisfaction. Enjoy a cool and comfortable home all summer long with a new AC system installed by Alamo HVAC.",
+        "process": [
+          "Step 1: Consultation - We assess your needs and recommend the best AC system for your home.",
+          "Step 2: System Selection - We help you choose the right size and type of AC unit.",
+          "Step 3: Professional Installation - Our certified technicians install your new AC system.",
+          "Step 4: System Testing and Training - We ensure proper operation and provide instructions."
+        ],
+        "benefits": [
+          "Expert system selection",
+          "Professional installation",
+          "Improved energy efficiency",
+          "Increased home comfort"
+        ],
+        "faq": [
+          {
+            "question": "How do I choose the right size AC unit for my home?",
+            "answer": "Our experienced technicians will perform a load calculation to determine the optimal size AC unit for your home based on factors like square footage, insulation, and window placement. This ensures efficient cooling without wasting energy."
+          },
+          {
+            "question": "Do you offer financing options for AC installation?",
+            "answer": "Yes, we offer flexible financing options to make AC installation more affordable. Contact us to learn more about our financing plans."
+          },
+          {
+            "question": "How long does AC installation typically take?",
+            "answer": "The installation process usually takes one to two days, depending on the complexity of the job. We'll provide a more accurate timeline during the consultation."
+          }
+        ]
+      },
+      {
+        "slug": "heater-repair",
+        "name": "Heater Repair",
+        "shortDescription": "Reliable heater repair services for El Paso's cooler months.",
+        "description": "Even though El Paso winters are mild, a functioning heater is still essential for comfort. Alamo HVAC offers comprehensive heater repair services to keep your home warm and cozy. Our technicians are experienced in repairing all types of heating systems, including furnaces, heat pumps, and ductless heaters. \n\nWe understand that a broken heater can be a major inconvenience, especially during the colder months. That's why we offer prompt and reliable repair services. We'll quickly diagnose the problem and provide a cost-effective solution. We use only high-quality parts and materials to ensure lasting repairs. \n\nFrom pilot light issues to faulty thermostats, Alamo HVAC has the expertise to handle any heater repair job. We're committed to providing honest and reliable service at a fair price. Don't let a broken heater leave you shivering – call us for fast heater repair!",
+        "process": [
+          "Step 1: Diagnostic Testing - We thoroughly inspect your heating system to pinpoint the problem.",
+          "Step 2: Transparent Explanation - We explain the issue and provide an upfront estimate for repairs.",
+          "Step 3: Expert Repair - Our certified technicians perform the necessary repairs using quality parts.",
+          "Step 4: System Testing - We ensure your heating system is functioning efficiently before we leave."
+        ],
+        "benefits": [
+          "Fast and reliable service",
+          "Experienced and certified technicians",
+          "Upfront pricing",
+          "Safe and efficient repairs"
+        ],
+        "faq": [
+          {
+            "question": "What are some signs that my heater needs repair?",
+            "answer": "Common signs include a lack of heat, strange noises, unusual smells, inconsistent heating, and a sudden increase in your energy bills."
+          },
+          {
+            "question": "How often should I have my heater serviced?",
+            "answer": "We recommend having your heater serviced annually to ensure optimal performance and prevent costly repairs."
+          },
+          {
+            "question": "Do you offer emergency heater repair services?",
+            "answer": "Yes, we offer 24/7 emergency service for heater repairs. We understand that a broken heater can be a serious issue, especially during the colder months."
+          }
+        ]
+      },
+      {
+        "slug": "heater-installation",
+        "name": "Heater Installation",
+        "shortDescription": "Professional heater installation for efficient warmth in your El Paso home.",
+        "description": "When it's time to replace your old heating system, Alamo HVAC can help you choose and install the perfect new unit for your home. We offer a wide selection of energy-efficient heaters, including furnaces, heat pumps, and ductless systems. Our experienced technicians will ensure that your new heater is installed correctly and safely. \n\nWe understand that investing in a new heating system is a significant decision. That's why we take the time to understand your needs and recommend the best option for your home and budget. We'll handle every aspect of the installation process, from removing your old unit to connecting the new system and ensuring proper operation. \n\nWith a new heater installed by Alamo HVAC, you can enjoy reliable warmth and lower energy bills all winter long. Contact us today for a free consultation and estimate!",
+        "process": [
+          "Step 1: Consultation - We assess your needs and recommend the best heating system for your home.",
+          "Step 2: System Selection - We help you choose the right size and type of heating unit.",
+          "Step 3: Professional Installation - Our certified technicians install your new heating system.",
+          "Step 4: System Testing and Training - We ensure proper operation and provide instructions."
+        ],
+        "benefits": [
+          "Expert system selection",
+          "Professional installation",
+          "Improved energy efficiency",
+          "Increased home comfort"
+        ],
+        "faq": [
+          {
+            "question": "What type of heater is best for my home?",
+            "answer": "The best type of heater for your home depends on several factors, including your budget, energy efficiency goals, and the size of your home. We can help you choose the right option during a free consultation."
+          },
+          {
+            "question": "How long does heater installation typically take?",
+            "answer": "Heater installation typically takes one to two days, depending on the complexity of the job."
+          },
+          {
+            "question": "Do you offer financing options for heater installation?",
+            "answer": "Yes, we offer flexible financing options to make heater installation more affordable."
+          }
+        ]
+      },
+      {
+        "slug": "duct-cleaning",
+        "name": "Duct Cleaning",
+        "shortDescription": "Improve your indoor air quality with professional duct cleaning services.",
+        "description": "Over time, dust, pollen, and other contaminants can accumulate in your home's ductwork, impacting your indoor air quality and HVAC system efficiency. Alamo HVAC offers professional duct cleaning services to remove these pollutants and improve the air you breathe. Our experienced technicians use specialized equipment to thoroughly clean your ductwork, removing allergens, dust mites, and other irritants. \n\nClean ductwork can also improve the performance of your HVAC system, reducing energy bills and extending the life of your equipment. If you've noticed excessive dust in your home, allergy symptoms, or a musty odor, duct cleaning may be the solution. \n\nAlamo HVAC is committed to providing healthy and comfortable indoor environments for El Paso families. Contact us today to schedule your duct cleaning service!",
+        "process": [
+          "Step 1: Inspection - We inspect your ductwork to assess the level of contamination.",
+          "Step 2: Cleaning - We use specialized equipment to remove dust, debris, and allergens.",
+          "Step 3: Sanitization - We sanitize your ductwork to kill bacteria and mold.",
+          "Step 4: Final Inspection - We ensure your ductwork is clean and functioning properly."
+        ],
+        "benefits": [
+          "Improved indoor air quality",
+          "Reduced allergy symptoms",
+          "Increased HVAC system efficiency",
+          "Elimination of odors"
+        ],
+        "faq": [
+          {
+            "question": "How often should I have my ducts cleaned?",
+            "answer": "We recommend having your ducts cleaned every three to five years, or more often if you have allergy sufferers in your home or have recently completed renovations."
+          },
+          {
+            "question": "What are the benefits of duct cleaning?",
+            "answer": "Duct cleaning can improve indoor air quality, reduce allergy symptoms, increase HVAC system efficiency, and eliminate odors."
+          },
+          {
+            "question": "How long does duct cleaning take?",
+            "answer": "The duct cleaning process typically takes two to four hours, depending on the size of your home and the extent of the contamination."
+          }
+        ]
+      },
+      {
+        "slug": "hvac-maintenance",
+        "name": "HVAC Maintenance",
+        "shortDescription": "Preventative HVAC maintenance to keep your system running smoothly.",
+        "description": "Regular HVAC maintenance is crucial for ensuring the longevity and efficiency of your heating and cooling systems. Alamo HVAC offers comprehensive maintenance services to keep your equipment running smoothly year-round. Our experienced technicians will inspect, clean, and tune up your HVAC system, identifying potential problems before they become major issues. \n\nPreventative maintenance can help you avoid costly repairs, lower energy bills, and extend the life of your equipment. We offer customized maintenance plans to fit your specific needs and budget. Our maintenance services include cleaning coils, checking refrigerant levels, inspecting electrical connections, and lubricating moving parts. \n\nProtect your investment and ensure optimal performance with Alamo HVAC's preventative maintenance services. Contact us today to schedule your appointment!",
+        "process": [
+          "Step 1: Inspection - We thoroughly inspect your HVAC system.",
+          "Step 2: Cleaning - We clean coils, filters, and other components.",
+          "Step 3: Testing - We test refrigerant levels, electrical connections, and other critical components.",
+          "Step 4: Tune-Up - We tune up your system for optimal performance."
+        ],
+        "benefits": [
+          "Reduced energy bills",
+          "Extended equipment life",
+          "Fewer repairs",
+          "Improved system efficiency"
+        ],
+        "faq": [
+          {
+            "question": "How often should I have my HVAC system maintained?",
+            "answer": "We recommend having your HVAC system maintained at least once a year, preferably in the spring for AC and in the fall for heating."
+          },
+          {
+            "question": "What are the benefits of HVAC maintenance?",
+            "answer": "HVAC maintenance can reduce energy bills, extend equipment life, prevent costly repairs, and improve system efficiency."
+          },
+          {
+            "question": "Do you offer maintenance plans?",
+            "answer": "Yes, we offer customized maintenance plans to fit your specific needs and budget."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "El Paso",
+        "slug": "el-paso-tx",
+        "state": "TX",
+        "content": "ALAMO HVAC, LLC is proud to serve the vibrant community of El Paso, Texas. We understand the unique climate challenges faced by El Paso residents, from scorching summers to chilly desert nights. Our team of experienced HVAC technicians is dedicated to providing reliable and efficient heating and cooling solutions to keep your home comfortable year-round.\n\nWhether you need a new air conditioning system installed, furnace repairs, or routine maintenance to ensure optimal performance, ALAMO HVAC, LLC is here to help. We offer a comprehensive range of HVAC services tailored to meet the specific needs of El Paso homeowners. We are committed to delivering exceptional customer service and quality workmanship on every project, big or small.",
+        "localContext": "El Paso, known as the Sun City, is a major city in West Texas, situated on the U.S.-Mexico border, known for its rich cultural heritage and stunning desert landscapes.",
+        "nearbyAreas": [
+          "Socorro",
+          "Anthony",
+          "Canutillo"
+        ]
+      },
+      {
+        "city": "Socorro",
+        "slug": "socorro-tx",
+        "state": "TX",
+        "content": "ALAMO HVAC, LLC extends its expert HVAC services to the residents of Socorro, Texas. As a close-knit community near El Paso, Socorro experiences similar weather patterns, requiring dependable heating and cooling systems. We are committed to providing Socorro homeowners with top-notch HVAC solutions to ensure their comfort and well-being.\n\nFrom air conditioning repairs and installations to furnace maintenance and replacements, ALAMO HVAC, LLC offers a full suite of HVAC services to meet your needs. Our team of skilled technicians is dedicated to delivering prompt, reliable, and affordable service to the Socorro community. We take pride in our commitment to customer satisfaction and strive to exceed your expectations.",
+        "localContext": "Socorro, Texas, a historic town just southeast of El Paso, offers a blend of small-town charm and modern amenities, with a strong sense of community.",
+        "nearbyAreas": [
+          "El Paso",
+          "Horizon City",
+          "Clint"
+        ]
+      },
+      {
+        "city": "Horizon City",
+        "slug": "horizon-city-tx",
+        "state": "TX",
+        "content": "ALAMO HVAC, LLC is pleased to offer its professional HVAC services to the growing community of Horizon City, Texas. As a rapidly developing area east of El Paso, Horizon City residents rely on efficient and reliable HVAC systems to combat the desert climate. We are dedicated to providing Horizon City homeowners with top-quality heating and cooling solutions.\n\nWhether you need a new AC unit installed, furnace repairs, or routine maintenance to keep your system running smoothly, ALAMO HVAC, LLC is here to help. We offer a comprehensive range of HVAC services tailored to the specific needs of Horizon City residents. Our team is committed to providing exceptional customer service and ensuring your complete satisfaction.",
+        "localContext": "Horizon City, a rapidly growing suburb of El Paso, offers a family-friendly environment with new housing developments and convenient access to city amenities.",
+        "nearbyAreas": [
+          "El Paso",
+          "Socorro",
+          "Clint"
+        ]
+      },
+      {
+        "city": "Anthony",
+        "slug": "anthony-tx",
+        "state": "TX",
+        "content": "ALAMO HVAC, LLC provides expert HVAC services to the town of Anthony, Texas, located on the border of Texas and New Mexico. We understand that Anthony residents need reliable heating and cooling systems to stay comfortable year-round. Our team is committed to providing top-notch HVAC solutions to the Anthony community.\n\nWe offer a full range of HVAC services, including air conditioning repair and installation, furnace maintenance and replacement, and duct cleaning. ALAMO HVAC, LLC is dedicated to delivering prompt, dependable service and exceeding your expectations. We take pride in our commitment to customer satisfaction and offer affordable pricing to meet your budget.",
+        "localContext": "Anthony, Texas, known as the 'Leap Year Capital of the World,' is a small town on the Texas-New Mexico border that offers a close-knit community and a unique local culture.",
+        "nearbyAreas": [
+          "El Paso",
+          "Canutillo",
+          "Sunland Park"
+        ]
+      },
+      {
+        "city": "Canutillo",
+        "slug": "canutillo-tx",
+        "state": "TX",
+        "content": "ALAMO HVAC, LLC is proud to serve the community of Canutillo, Texas, with its expert HVAC services. As a historic community near El Paso, Canutillo experiences the challenges of the Texas climate, making reliable heating and cooling systems essential. We are dedicated to providing Canutillo homeowners with dependable HVAC solutions.\n\nFrom air conditioning repairs to furnace installations and routine maintenance, ALAMO HVAC, LLC offers a full range of services to meet your needs. Our team of skilled technicians is committed to delivering prompt, reliable, and affordable service to the Canutillo community. We are dedicated to ensuring your comfort and satisfaction.",
+        "localContext": "Canutillo, Texas, a historic community with strong agricultural roots, offers a blend of rural charm and convenient access to El Paso's amenities.",
+        "nearbyAreas": [
+          "El Paso",
+          "Anthony",
+          "Vinton"
+        ]
+      },
+      {
+        "city": "Clint",
+        "slug": "clint-tx",
+        "state": "TX",
+        "content": "ALAMO HVAC, LLC offers professional HVAC services to the residents of Clint, Texas. As a town in the El Paso metropolitan area, Clint experiences the full range of Texas weather, making reliable heating and cooling systems a necessity. We are dedicated to providing Clint homeowners with top-quality HVAC solutions.\n\nWhether you need emergency AC repair, a new furnace installed, or routine system maintenance, ALAMO HVAC, LLC is here to help. We offer a comprehensive range of HVAC services tailored to the specific needs of Clint residents. Our team is committed to providing exceptional customer service and ensuring your complete satisfaction.",
+        "localContext": "Clint, Texas, a town in the El Paso County, offers a mix of residential areas and agricultural landscapes, providing a quieter pace of life while being close to the city.",
+        "nearbyAreas": [
+          "Socorro",
+          "Horizon City",
+          "San Elizario"
+        ]
+      },
+      {
+        "city": "San Elizario",
+        "slug": "san-elizario-tx",
+        "state": "TX",
+        "content": "ALAMO HVAC, LLC is pleased to extend our HVAC services to San Elizario, Texas. As a town with a rich history and unique architectural styles, maintaining comfortable indoor environments is essential. We provide reliable heating and cooling solutions that homeowners and businesses can depend on.\n\nWe offer a comprehensive suite of services, including air conditioning installation, furnace repair, and preventative maintenance programs, ensuring that your HVAC systems operate efficiently and effectively. ALAMO HVAC, LLC is committed to delivering prompt and dependable service, exceeding the expectations of our customers in San Elizario.",
+        "localContext": "San Elizario, a historic town with strong ties to its Spanish colonial past, offers a unique cultural experience with its preserved architecture and vibrant community events.",
+        "nearbyAreas": [
+          "Clint",
+          "Socorro",
+          "Fabens"
+        ]
+      },
+      {
+        "city": "Vinton",
+        "slug": "vinton-tx",
+        "state": "TX",
+        "content": "ALAMO HVAC, LLC is proud to serve the town of Vinton, Texas, providing reliable and efficient HVAC services. We understand Vinton residents need dependable heating and cooling systems to stay comfortable year-round. Our team is committed to providing top-notch HVAC solutions to the Vinton community.\n\nWe offer a comprehensive range of HVAC services, including air conditioning repair and installation, furnace maintenance and replacement, and indoor air quality solutions. ALAMO HVAC, LLC is dedicated to delivering prompt, dependable service and exceeding your expectations. We take pride in our commitment to customer satisfaction and offer competitive pricing to meet your budget.",
+        "localContext": "Vinton, Texas, a primarily residential town located near the New Mexico border, offers a quiet and family-oriented atmosphere.",
+        "nearbyAreas": [
+          "Canutillo",
+          "Anthony",
+          "Santa Teresa"
+        ]
+      },
+      {
+        "city": "Santa Teresa",
+        "slug": "santa-teresa-nm",
+        "state": "NM",
+        "content": "Even though technically in New Mexico, ALAMO HVAC, LLC is happy to offer services to our neighbors in Santa Teresa. We understand that Santa Teresa residents need reliable heating and cooling systems to stay comfortable year-round. Our team is committed to providing top-notch HVAC solutions to the Santa Teresa community.\n\nWe offer a comprehensive range of HVAC services, including air conditioning repair and installation, furnace maintenance and replacement, and indoor air quality solutions. ALAMO HVAC, LLC is dedicated to delivering prompt, dependable service and exceeding your expectations. We take pride in our commitment to customer satisfaction and offer competitive pricing to meet your budget.",
+        "localContext": "Santa Teresa, New Mexico, a growing community near the border, is known for its industrial park and developing residential areas.",
+        "nearbyAreas": [
+          "Vinton",
+          "Anthony",
+          "Sunland Park"
+        ]
+      },
+      {
+        "city": "Sunland Park",
+        "slug": "sunland-park-nm",
+        "state": "NM",
+        "content": "ALAMO HVAC, LLC extends its expert services to Sunland Park, New Mexico, understanding the importance of reliable HVAC systems in this border community. We are committed to providing Sunland Park residents with quality heating and cooling solutions tailored to the unique climate challenges.\n\nFrom air conditioning repairs and installations to furnace maintenance and replacements, we offer a full suite of HVAC services. Our skilled technicians are dedicated to delivering prompt, reliable, and affordable service. We take pride in our commitment to customer satisfaction and strive to exceed your expectations in Sunland Park.",
+        "localContext": "Sunland Park, New Mexico, known for its horse racing track and proximity to El Paso, offers a mix of entertainment and residential areas.",
+        "nearbyAreas": [
+          "Anthony",
+          "Santa Teresa",
+          "El Paso"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Maria G.",
+        "rating": 5,
+        "service": "AC Repair",
+        "text": "Alamo HVAC saved the day! Our AC went out during the hottest week of the summer. They came out quickly and fixed it fast. The technician was very professional and explained everything clearly. Highly recommend!",
+        "date": "2024-07-15"
+      },
+      {
+        "name": "David R.",
+        "rating": 4,
+        "service": "Heater Installation",
+        "text": "We recently had Alamo HVAC install a new heater in our home on the Westside. The installation process was smooth and efficient. The team was very knowledgeable and answered all of our questions. Very happy with the service.",
+        "date": "2024-11-20"
+      },
+      {
+        "name": "Jessica L.",
+        "rating": 5,
+        "service": "Duct Cleaning",
+        "text": "I was experiencing allergy symptoms and decided to have my ducts cleaned. Alamo HVAC did an amazing job! The air quality in my home has improved significantly. The technicians were professional and thorough.",
+        "date": "2025-02-01"
+      },
+      {
+        "name": "Robert K.",
+        "rating": 5,
+        "service": "AC Installation",
+        "text": "From the initial consultation to the final installation, Alamo HVAC provided exceptional service. They helped us choose the right AC system for our home and the installation was completed flawlessly. Our home is now much cooler and more comfortable.",
+        "date": "2025-05-10"
+      },
+      {
+        "name": "Sarah P.",
+        "rating": 4,
+        "service": "HVAC Maintenance",
+        "text": "I've been using Alamo HVAC for annual maintenance for the past few years, and they've always been reliable. They keep my system running smoothly and prevent any major issues. Great service!",
+        "date": "2024-09-05"
+      },
+      {
+        "name": "Michael S.",
+        "rating": 5,
+        "service": "AC Repair",
+        "text": "Our AC stopped working late at night, and Alamo HVAC was there to help. They provided prompt and efficient service, even on a weekend. I was very impressed with their professionalism and expertise. Great job!",
+        "date": "2025-01-22"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "Alamo HVAC - El Paso, TX",
+        "description": "El Paso's trusted HVAC contractor. AC repair, installation, maintenance. Call Alamo HVAC for reliable service!"
+      },
+      "about": {
+        "title": "About Alamo HVAC - El Paso",
+        "description": "Learn about Alamo HVAC's commitment to quality HVAC service in El Paso, TX. Experienced, local, and reliable."
+      },
+      "services": {
+        "title": "HVAC Services - El Paso, TX",
+        "description": "Alamo HVAC offers complete HVAC services in El Paso. AC repair, installation, duct cleaning, and more. Get a free estimate!"
+      },
+      "contact": {
+        "title": "Contact Alamo HVAC - El Paso",
+        "description": "Contact Alamo HVAC for all your HVAC needs in El Paso, TX. Call now for a free estimate and fast, reliable service."
+      },
+      "reviews": {
+        "title": "Alamo HVAC Reviews - El Paso",
+        "description": "Read reviews from satisfied Alamo HVAC customers in El Paso, TX. See why we're the trusted choice for HVAC service."
+      },
+      "service-areas": {
+        "title": "HVAC Service Areas - Alamo HVAC",
+        "description": "Alamo HVAC provides trusted HVAC services to El Paso and surrounding areas. Call us today!"
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "ac-repair": "/images/service-ac-repair.webp",
+      "ac-installation": "/images/service-ac-installation.webp",
+      "heater-repair": "/images/service-heater-repair.webp",
+      "heater-installation": "/images/service-heater-installation.webp",
+      "duct-cleaning": "/images/service-duct-cleaning.webp",
+      "hvac-maintenance": "/images/service-hvac-maintenance.webp"
+    },
+    "servicesResponsive": {
+      "ac-repair": {
+        "src": "/images/service-ac-repair.webp",
+        "srcset": "/images/service-ac-repair-400w.webp 400w, /images/service-ac-repair-800w.webp 800w, /images/service-ac-repair-1200w.webp 1200w, /images/service-ac-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "ac-installation": {
+        "src": "/images/service-ac-installation.webp",
+        "srcset": "/images/service-ac-installation-400w.webp 400w, /images/service-ac-installation-800w.webp 800w, /images/service-ac-installation-1200w.webp 1200w, /images/service-ac-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "heater-repair": {
+        "src": "/images/service-heater-repair.webp",
+        "srcset": "/images/service-heater-repair-400w.webp 400w, /images/service-heater-repair-800w.webp 800w, /images/service-heater-repair-1200w.webp 1200w, /images/service-heater-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "heater-installation": {
+        "src": "/images/service-heater-installation.webp",
+        "srcset": "/images/service-heater-installation-400w.webp 400w, /images/service-heater-installation-800w.webp 800w, /images/service-heater-installation-1200w.webp 1200w, /images/service-heater-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "duct-cleaning": {
+        "src": "/images/service-duct-cleaning.webp",
+        "srcset": "/images/service-duct-cleaning-400w.webp 400w, /images/service-duct-cleaning-800w.webp 800w, /images/service-duct-cleaning-1200w.webp 1200w, /images/service-duct-cleaning.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "hvac-maintenance": {
+        "src": "/images/service-hvac-maintenance.webp",
+        "srcset": "/images/service-hvac-maintenance-400w.webp 400w, /images/service-hvac-maintenance-800w.webp 800w, /images/service-hvac-maintenance-1200w.webp 1200w, /images/service-hvac-maintenance.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}
